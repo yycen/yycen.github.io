@@ -1,6 +1,6 @@
 ---
 title: Documents
-category: Media
+category: 媒体
 order: 3
 ---
 

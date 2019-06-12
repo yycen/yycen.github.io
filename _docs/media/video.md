@@ -1,6 +1,6 @@
 ---
 title: Video
-category: Media
+category: 媒体
 order: 2
 ---
 
